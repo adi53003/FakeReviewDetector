@@ -67,7 +67,7 @@ def main():
     links = st.expander("Related Links")
     if links:
         links.write("[Dataset utilized](https://www.kaggle.com/akudnaver/amazon-reviews-dataset)")
-        links.write("[Github](https://github.com/kntb0107/Fraud-Detection-in-Online-Consumer-Reviews-Using-Machine-Learning-Techniques)")
+        links.write("[Github](https://github.com/adi53003/FakeReviewDetector)")
         
     # --CHECKBOXES--
     st.subheader("Information on the Classifier")
